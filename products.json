@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":" Jacket Mens",
+        "price":2650,
+        "image":"cloth/1.png"
+    },
+    {
+        "id":2,
+        "name":"Mutant 52L",
+        "price":5990,
+        "image":"cloth/2.png"
+    },
+    {
+        "id":3,
+        "name":"TX 5 Mid Gtx",
+        "price":8650,
+        "image":"cloth/3.png"
+    },
+    {
+        "id":4,
+        "name":"Binoculars",
+        "price":7300,
+        "image":"cloth/4.png"
+    },
+    {
+        "id":5,
+        "name":"Jacket Mens",
+        "price":2650,
+        "image":"cloth/1.png"
+    },
+    {
+        "id":6,
+        "name":"Mutant 52L",
+        "price":5990,
+        "image":"cloth/2.png"
+    },
+    {
+        "id":7,
+        "name":"TX 5 Mid Gtx",
+        "price":8650,
+        "image":"cloth/3.png"
+    },
+    {
+        "id":8,
+        "name":"Binoculars",
+        "price":7300,
+        "image":"cloth/4.png"
+    }
+]
